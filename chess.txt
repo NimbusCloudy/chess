@@ -1,0 +1,10 @@
+z A B C D E F G H z
+8 r h b k q b h r 8
+7 p p p p p p p p 7
+6 - - - - - - - - 6
+5 - - - - - - - - 5
+4 - - - - - - - - 4
+3 - - - - - - - - 3
+2 P P P P P P P P 2
+1 R H B Q K B H R 1
+z A B C D E F G H z
